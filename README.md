@@ -1,4 +1,6 @@
-Simple Keylogger
+##Simple Keylogger
+
+
 This project implements a basic keylogger program in Python using the pynput library. The keylogger records and logs keystrokes, focusing on capturing the keys pressed and saving them to a file. Important: This project is for educational purposes only. Make sure you have permission before using it on any system.
 
 Features
